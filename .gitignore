@@ -1,0 +1,8 @@
+legacy/
+*.pyc
+context.txt
+*.json
+*.bat
+config.json
+.env
+list.txt
